@@ -1,0 +1,16 @@
+.footer {
+    background-color: white;
+    padding: 2vw;
+    margin: 0;
+    text-align: center;
+}
+
+.footer-img {
+    display: inline;
+    max-height: 6vh;
+    margin: 1vw;
+}
+
+.footer-p {
+    display: inline;
+}
